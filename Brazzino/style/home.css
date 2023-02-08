@@ -1,0 +1,15 @@
+body{
+    background: aqua;
+    text-align: center;
+}
+
+header h1{
+    padding: 7%;
+    color: red;
+    text-align: center;
+    font-size: 4.5em;
+}
+.quad-inicial label input{
+    text-align: center;
+    font-size: 2.5em;
+}
